@@ -1,0 +1,39 @@
+{
+
+    "prefix": "!",
+    "token": "ODg5NjM1MzU4MzM2MjQ1NzYx.YUkHfg.b_ScRimcvVpBwjQeCQKax3aTrxY",
+  
+    "conexaodb" : "",
+    "userdb" : "db2376",  
+    "senhadb" : "H8HK1gV5lT",
+    "db" : "db2376",
+
+    "IPdominio": "158.69.187.181:22093",
+    "IPservidor": "158.69.187.181:22093",
+    "portaservidor": "158.69.187.181:22093",
+
+    "logoservidorURL": "https://media.giphy.com/media/Wl0nTURKimOw63laW0/giphy.gif",
+    
+    "IDservidor": "864530168822104065",
+    "IDCategoriaWL": "865141807196536842",
+    "IDcanal_wl": "888282348041408532",
+    "IDlogsWL": "889647737363111966",
+    "IDCanalAprovados": "888282414143639642",
+    "IDCanalReprovados": "888282940063248394",
+    "IDAprovadoCargo": "864535275048140800",
+    "IDSemWlCargo": "888288945341890610",
+    "IDCanalEntrada": "865142080656900097",
+    "IDCanalSaida": "865142080656900097",
+
+    "QuantosAcertos": "8"
+
+
+    
+
+
+
+    
+    
+
+  
+}

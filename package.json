@@ -1,0 +1,27 @@
+{
+  "name": "dragonresources",
+  "version": "1.0.0",
+  "description": "novak",
+  "main": "index.js",
+  "dependencies": {
+    "approximate-number": "^2.0.0",
+    "colors": "^1.4.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fivem-node-api": "^0.1.1",
+    "ip": "^1.1.5",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "pm2": "^4.5.6",
+    "powershell": "^2.3.2",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0",
+    "tcp-ping": "^0.1.1",
+    "webhook-discord": "^3.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  }
+}
